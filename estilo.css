@@ -1,0 +1,25 @@
+.filtros {
+  display: flex;
+  justify-content: center;
+}
+.filtros .Filtro {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-family: fantasy;
+}
+.filtros .Filtro:hover {
+  background-color: gray;
+}
+.filtros #filtros {
+  justify-content: center;
+}
+
+/*# sourceMappingURL=estilo.css.map */
